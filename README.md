@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50" />I'm a Backend Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50" /></h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=schunckleonardo&theme=tokyonight&show_icons=true" />
+  <img width="48%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaobitencourt&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="48%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schunckleonardo&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
