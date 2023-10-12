@@ -11,7 +11,7 @@
   <img width="48%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobitencourt&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<br><br> <p align="center" width="50" height="50"> <img align="center"  src="https://komarev.com/ghpvc/?username=joaobitencourt&color=0f0f0f" /></p> <br>
+<br><br> <p align="center" width="100"> <img align="center"  src="https://komarev.com/ghpvc/?username=joaobitencourt&color=0f0f0f" /></p> <br>
 
 <i class="devicon-nodejs-plain colored"></i>
 
