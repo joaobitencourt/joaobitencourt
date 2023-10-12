@@ -10,6 +10,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="48%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobitencourt&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
+
+
 <img align="right" src="https://komarev.com/ghpvc/?username=joaobitencourt&color=0f0f0f"><br>
+
 <i class="devicon-nodejs-plain colored"></i>
 
